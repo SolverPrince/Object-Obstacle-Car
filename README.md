@@ -21,3 +21,8 @@ Here's the Parts List:
 10) DC Power Switch 
 
 ## Output
+
+
+
+https://user-images.githubusercontent.com/98515024/151750351-872130ff-6885-405e-a334-dedb569758bc.mp4
+
